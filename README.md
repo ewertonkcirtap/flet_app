@@ -35,7 +35,7 @@ Para executar o Gerenciador de Tarefas, siga os passos abaixo:
 3. Execute o arquivo principal `app.py`:
 
    ```bash
-   python todo.py
+   python app.py
    ```
 
 ## Uso
