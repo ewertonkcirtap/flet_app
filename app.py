@@ -177,5 +177,5 @@ async def main(page: ft.Page):
     # create app control and add it to the page
     await page.add_async(TodoApp())
 
-
 ft.app(main)
+#ft.app(main,view=ft.WEB_BROWSER)
