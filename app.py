@@ -97,7 +97,7 @@ class TodoApp(ft.UserControl):
             width=700,
             controls=[
                 ft.Row(
-                    [ft.Text(value= f"To Do - {hoje} ", style=ft.TextThemeStyle.HEADLINE_SMALL)],
+                    [ft.Text(value= f"To Do - {hoje} ", style=ft.TextThemeStyle.BODY_MEDIUM)],
                     alignment=ft.MainAxisAlignment.CENTER,
                 ),
                 ft.Row(
