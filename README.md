@@ -44,8 +44,8 @@ O Gerenciador de Tarefas oferece uma interface gráfica moderna e simples para a
 
 ## Contato
 
-Para mais informações ou dúvidas sobre o projeto, entre em contato pelo linkedin: [linkedin](https://www.linkedin.com/in/ewertonkcirtap/)
+Para mais informações ou dúvidas sobre o projeto, entre em contato [linkedin](https://www.linkedin.com/in/ewertonkcirtap/)
 
 ## Documentação
 
-Para mais informações [link](https://flet.dev/docs/)
+Para mais informações : [link](https://flet.dev/docs/)
